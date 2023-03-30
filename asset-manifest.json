@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.72c6749f.css",
-    "main.js": "/react-gh-pages/static/js/main.7f30d80a.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.72c6749f.css.map": "/react-gh-pages/static/css/main.72c6749f.css.map",
-    "main.7f30d80a.js.map": "/react-gh-pages/static/js/main.7f30d80a.js.map"
+    "main.css": "/quiz-app/static/css/main.72c6749f.css",
+    "main.js": "/quiz-app/static/js/main.7f30d80a.js",
+    "index.html": "/quiz-app/index.html",
+    "main.72c6749f.css.map": "/quiz-app/static/css/main.72c6749f.css.map",
+    "main.7f30d80a.js.map": "/quiz-app/static/js/main.7f30d80a.js.map"
   },
   "entrypoints": [
     "static/css/main.72c6749f.css",
